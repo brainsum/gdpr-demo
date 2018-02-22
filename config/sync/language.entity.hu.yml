@@ -1,0 +1,9 @@
+uuid: 001be5b9-d7af-42c8-9f4f-6dade7502e6b
+langcode: en
+status: true
+dependencies: {  }
+id: hu
+label: Hungarian
+direction: ltr
+weight: 1
+locked: false

@@ -1,0 +1,14 @@
+uuid: 1be35bc0-6b35-4e59-b312-68eaab797389
+name: gdpr_demo
+mail: dev+gdpr@brainsum.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
