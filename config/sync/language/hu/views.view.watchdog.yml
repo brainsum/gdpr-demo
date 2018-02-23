@@ -2,7 +2,6 @@ label: Eseménynapló
 description: 'Legutóbbi naplóüzenetek'
 display:
   default:
-    display_title: Mester
     display_options:
       exposed_form:
         options:
@@ -23,8 +22,6 @@ display:
       fields:
         nothing:
           admin_label: Ikon
-        wid:
-          label: WID
         severity:
           label: Szint
         type:
@@ -33,11 +30,8 @@ display:
           label: Dátum
         message:
           label: Üzenet
-          alter:
-            alt: '{{ message }}'
         name:
           label: Felhasználó
-          separator: ', '
         link:
           label: Műveletek
       filters:

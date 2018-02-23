@@ -1,8 +1,6 @@
 label: Hozzászólások
-description: 'Hozzászólások keresése és kezelése.'
 display:
   default:
-    display_title: Mester
     display_options:
       exposed_form:
         options:
@@ -27,29 +25,18 @@ display:
           action_title: Művelet
         subject:
           label: Tárgy
-          separator: ', '
-        uid:
-          separator: ', '
         name:
           label: Szerző
-          separator: ', '
         entity_id:
           label: 'Hozzászólás ehhez'
-          separator: ', '
         changed:
           label: Frissítve
-          separator: ', '
         operations:
           label: Műveletek
-        name_1:
-          separator: ', '
       filters:
         subject:
           expose:
             label: Tárgy
-        combine:
-          expose:
-            label: 'Szerző neve'
         langcode:
           expose:
             label: Nyelv
@@ -63,22 +50,15 @@ display:
     display_options:
       menu:
         title: Hozzászólások
-        description: 'Közzétett hozzászólások'
-      display_description: 'Az elfogadott hozzászólások listája.'
   page_unapproved:
     display_title: 'Nem elfogadott hozzászólások'
     display_options:
       menu:
         title: 'Nem elfogadott hozzászólások'
-        description: 'El nem bírált hozzászólások'
-      display_description: 'A még el nem bírált hozzászólások listája.'
       filters:
         subject:
           expose:
             label: Tárgy
-        combine:
-          expose:
-            label: 'Szerző neve'
         langcode:
           expose:
             label: Nyelv
@@ -87,19 +67,11 @@ display:
           action_title: Művelet
         subject:
           label: Tárgy
-          separator: ', '
-        uid:
-          separator: ', '
         name:
           label: Szerző
-          separator: ', '
         entity_id:
           label: 'Hozzászólás ehhez'
-          separator: ', '
         changed:
           label: Frissítve
-          separator: ', '
         operations:
           label: Műveletek
-        name_1:
-          separator: ', '

@@ -1,8 +1,5 @@
-label: Szójegyzék
-description: 'Minden tartalom, kezdőbetűk szerint csoportosítva.'
 display:
   default:
-    display_title: Mester
     display_options:
       exposed_form:
         options:
@@ -31,6 +28,3 @@ display:
     display_title: Csatolmány
   page_1:
     display_title: Oldal
-    display_options:
-      menu:
-        title: Szójegyzék

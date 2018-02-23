@@ -1,8 +1,5 @@
-label: Archiválás
-description: 'Minden tartalom, hónaponként csoportosítva.'
 display:
   default:
-    display_title: Mester
     display_options:
       title: 'Havi archívum'
       exposed_form:
@@ -21,14 +18,7 @@ display:
           tags:
             previous: ‹‹
             next: ››
-      arguments:
-        created_year_month:
-          title: '{{ arguments.created_year_month }}'
   block_1:
     display_title: Blokk
-    display_options:
-      arguments:
-        created_year_month:
-          title: '{{ arguments.created_year_month }}'
   page_1:
     display_title: Oldal

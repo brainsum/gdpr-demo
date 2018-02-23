@@ -22,7 +22,6 @@ display:
           label: Cím
         type:
           label: Tartalomtípus
-          separator: ', '
         name:
           label: Szerző
         status:
@@ -58,12 +57,10 @@ display:
       empty:
         area_text_custom:
           content: 'Nincs elérhető tartalom.'
-    display_title: Mester
   page_1:
     display_options:
       menu:
         title: Tartalom
       tab_options:
         title: Tartalom
-        description: 'Tartalom keresése és kezelése'
     display_title: Oldal

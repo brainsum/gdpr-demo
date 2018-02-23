@@ -1,8 +1,6 @@
 label: 'Friss tartalom'
-description: 'Friss tartalom.'
 display:
   default:
-    display_title: Mester
     display_options:
       exposed_form:
         options:
@@ -11,9 +9,6 @@ display:
           exposed_sorts_label: Rendezés
           sort_asc_label: Növekvő
           sort_desc_label: Csökkenő
-      fields:
-        changed:
-          separator: ', '
       title: 'Friss tartalom'
       empty:
         area_text_custom:

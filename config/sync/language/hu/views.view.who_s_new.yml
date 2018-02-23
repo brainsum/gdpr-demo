@@ -1,8 +1,6 @@
 label: 'Új felhasználók'
-description: 'Egy listát jelenít meg a webhely legfrissebb felhasználói fiókjairól.'
 display:
   default:
-    display_title: Mester
     display_options:
       exposed_form:
         options:
@@ -15,6 +13,5 @@ display:
   block_1:
     display_title: 'Új felhasználók'
     display_options:
-      display_description: 'Új felhasználók egy listája'
       block_description: 'Új felhasználók'
       block_category: Felhasználó

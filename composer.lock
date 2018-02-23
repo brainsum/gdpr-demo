@@ -1594,7 +1594,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/gdpr",
-                "reference": "f5297dcee0574dbd71d8533f4e461ef1b77f7fd1"
+                "reference": "88963155cd4fb5e7855940251db64a527bfef333"
             },
             "require": {
                 "drupal/checklistapi": "^1.0",
@@ -1654,7 +1654,7 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/gdpr"
             },
-            "time": "2018-02-16 12:37:45"
+            "time": "2018-02-22 16:25:39"
         },
         {
             "name": "drush/drush",

@@ -1,5 +1,4 @@
 label: Címlap
-description: 'A kezdőlapon közzétett összes tartalom.'
 display:
   default:
     display_options:
@@ -26,7 +25,6 @@ display:
             next: 'Következő ›'
             first: '« Első'
             last: 'Utolsó »'
-    display_title: Mester
   feed_1:
     display_title: Hírcsatorna
   page_1:

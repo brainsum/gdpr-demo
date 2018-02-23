@@ -2,7 +2,6 @@ label: 'Taxonómia kifejezés'
 description: 'Egy bizonyos taxonómiakifejezéshez tartozó tartalom.'
 display:
   default:
-    display_title: Mester
     display_options:
       exposed_form:
         options:
@@ -24,7 +23,6 @@ display:
         tid:
           exception:
             title: Mind
-          title: '{{ arguments.tid }}'
   feed_1:
     display_title: Hírcsatorna
   page_1:

@@ -1,8 +1,6 @@
 label: 'Friss hozzászólások'
-description: 'Legújabb hozzászólások.'
 display:
   default:
-    display_title: Mester
     display_options:
       title: 'Friss hozzászólások'
       empty:
@@ -12,4 +10,3 @@ display:
     display_title: Blokk
     display_options:
       block_description: 'Friss hozzászólások'
-      block_category: 'Listák (Nézetek)'

@@ -1,8 +1,6 @@
 label: 'Egyéni blokkok könyvtára'
-description: 'Egyéni blokkok keresése és kezelése.'
 display:
   default:
-    display_title: Mester
     display_options:
       exposed_form:
         options:
@@ -23,10 +21,8 @@ display:
       fields:
         info:
           label: 'Blokk leírása'
-          separator: ', '
         type:
           label: Blokktípus
-          separator: ', '
         changed:
           label: Frissítve
         operations:
